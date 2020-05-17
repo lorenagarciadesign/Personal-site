@@ -229,7 +229,7 @@ nav a:last-child:after {
   height: 100%;
   width: 100%;
   opacity: 0;
-  transition: .4s ease;
+  transition: .6s ease;
   background-color: white;
 }
 
